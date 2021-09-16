@@ -19,5 +19,5 @@ This program was made using Python.
 # Useful Websites
 
 Make a list of websites that you found helpful in this project
-* [Web Site Name](http://url.link.goes.here)
-* [Web Site Name](http://url.link.goes.here)
+* [Markdown Guide](https://www.markdownguide.org/cheat-sheet/)
+* [GitHub Guide](https://guides.github.com/activities/hello-world/)
