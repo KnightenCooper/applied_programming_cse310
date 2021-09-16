@@ -21,3 +21,5 @@ This program was made using Python.
 Make a list of websites that you found helpful in this project
 * [Markdown Guide](https://www.markdownguide.org/cheat-sheet/)
 * [GitHub Guide](https://guides.github.com/activities/hello-world/)
+* [W3Schools](https://www.w3schools.com/python/python_syntax.asp)
+
