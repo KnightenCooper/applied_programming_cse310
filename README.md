@@ -8,7 +8,7 @@ I am making this program to practice outputting text using python and practice u
 
 Provide a link to your YouTube demonstration.  It should be a one minute demo of the software running and a walkthrough of the code.
 
-[Software Demo Video](http://youtube.link.goes.here)
+[Software Demo Video](http://youtu.be/1iHBMUkGbkc?hd=1)
 
 # Development Environment
 
@@ -21,3 +21,5 @@ This program was made using Python.
 Make a list of websites that you found helpful in this project
 * [Markdown Guide](https://www.markdownguide.org/cheat-sheet/)
 * [GitHub Guide](https://guides.github.com/activities/hello-world/)
+* [W3Schools Python Syntax](https://www.w3schools.com/python/python_syntax.asp)
+
